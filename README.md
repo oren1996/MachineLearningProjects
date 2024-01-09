@@ -1,8 +1,6 @@
 # MachineLearningProjects
 Some of my Machine Learning Projects:
 
-1) Certainly! Below is a concise summary of your "Digit Classification" Jupyter notebook, suitable for inclusion in a README file on GitHub:
-
 ---
 
 ## Digit Classification Project
